@@ -4,5 +4,3 @@ fs
 ds
 
 fdsfd sdxqdsdas
-d
-
